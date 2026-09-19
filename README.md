@@ -84,3 +84,4 @@
 ## 📝 Catatan & Lisensi
 
 Projek ini dikembangkan untuk mendukung digitalisasi pemesanan pada unit usaha **ENHA Water**.
+<img width="869" height="1229" alt="Image" src="https://github.com/user-attachments/assets/9a90e201-46b7-4c10-bf23-2850ff2cc90c" />
